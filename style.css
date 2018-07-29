@@ -78,6 +78,7 @@ footer .copyright {
 }
 
 .designed h1 {
+  text-align: center;
   color: #ddd;
   margin-bottom: 4rem;
 }
